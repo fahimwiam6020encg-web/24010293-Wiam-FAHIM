@@ -2,7 +2,7 @@
 ![IMG_5902](https://github.com/user-attachments/assets/94db96e6-f9b1-422c-9a2c-5840eed035b8)
 
 
-# 📝 COMPTE RENDU DE PROJET : DÉPISTAGE DU CANCER DU POUMON
+# COMPTE RENDU DE PROJET : DÉPISTAGE DU CANCER DU POUMON
 
 
 ## 1. Le Contexte Métier et la Mission
